@@ -18,7 +18,7 @@ await connectDB()
 // await connectCloudinary()
 
 //Allow multiple origins
-const allowedOrigins=['http://localhost:5173','https://thinkstore-platform.vercel.app']
+const allowedOrigins=['http://localhost:5173','https://think-store-delta.vercel.app']
 //
 //middleware config
 app.use(express.json());
