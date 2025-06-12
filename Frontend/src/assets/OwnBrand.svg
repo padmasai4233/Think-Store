@@ -1,0 +1,11 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="100" viewBox="0 0 600 150">
+  <style>
+    .green { fill: #34A853; font-family: 'Segoe UI', sans-serif; font-weight: bold; }
+    .dark { fill: #2C3E50; font-family: 'Segoe UI', sans-serif; font-weight: bold; }
+  </style>
+  <!-- Custom green T similar to logo style -->
+  <path class="green" d="M50 30 H100 V50 H80 V110 H70 V50 H50 Z" />
+  <!-- Remaining text "hinkStore" -->
+  <text x="110" y="110" font-size="80" class="dark">hinkStore</text>
+</svg>
