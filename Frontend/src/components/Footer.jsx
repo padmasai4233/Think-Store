@@ -31,7 +31,7 @@ Fast delivery, unbeatable quality, and happy shopping guaranteed.</p>
                 </div>
             </div>
             <p className="py-4 text-center text-sm md:text-base text-gray-500/80">
-                Copyright {new Date().getFullYear()} © ThinkStore All Right Reserved.
+                Copyright {new Date().getFullYear()} Built with ❤️ by Sai Gorrela – Full Stack Developer
             </p>
         </div>
     );
